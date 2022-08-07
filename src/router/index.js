@@ -46,7 +46,7 @@ const routes = [
   },
   {
     path: '/about',
-    name: 'AboutView',
+    name: 'About',
     component: AboutView
   },
   {
